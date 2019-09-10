@@ -1,2 +1,2 @@
 # React_insta_Profile
-Made a Clone of Insta User Profile page
+Insta User Profile page UI with the help of React native. 
